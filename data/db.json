@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "ilhamm",
+      "nim": "435",
+      "kelas": "b",
+      "jeniskelamin": "pejantan",
+      "color": "#fff",
+      "icon": "bird",
+      "id": 17
+    },
+    {
+      "nama": "Kop",
+      "nim": "213",
+      "kelas": "A",
+      "jeniskelamin": "LK",
+      "color": "#FFFF",
+      "icon": "",
+      "id": 18
+    }
+  ]
+}
